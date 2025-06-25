@@ -1,7 +1,12 @@
 # 🛒 E-commerce Product Rating Prediction
 
- zack-yeo-dNb1rjP0auw-unsplash
-## 📌 Overview
+![Uploading zack-yeo-dNb1rjP0auw-unsplash.jpg…]()
+![Uploading zack-yeo-dNb1rjP0auw-unsplash.jpg…]()
+![Uploading zack-yeo-dNb1rjP0auw-unsplash.jpg…]()
+![Uploading zack-yeo-dNb1rjP0auw-unsplash.jpg…]()
+
+
+ ## 📌 Overview
 
 This project aims to predict the **ratings of products on an E-commerce platform** using features like product title, description, brand, and price. Accurate predictions can help sellers and platforms improve product presentation and customer satisfaction.
 
