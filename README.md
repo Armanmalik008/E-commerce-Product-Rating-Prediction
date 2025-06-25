@@ -1,6 +1,6 @@
 # 🛒 E-commerce Product Rating Prediction
 
-![Project Banner](https://i.imgur.com/JR3U2Vb.png) <!-- Replace with your own image -->
+![E-commerce Product Rating UI](https://images.unsplash.com/photo-1616401783513-3c0b8fc5bc81?auto=format&fit=crop&w=1350&q=80)
 
 ## 📌 Overview
 
@@ -58,4 +58,4 @@ This is framed as a **regression** task.
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
