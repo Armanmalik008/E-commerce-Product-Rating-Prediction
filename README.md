@@ -42,30 +42,31 @@ This is framed as a **regression** task.
 
 5. **Evaluation**
    - Root Mean Squared Error (RMSE)
-   - Model comparison table below
+   - Model ranking below
 
-## ✅ Results
+## 🏆 Results
 
-| Model          | RMSE   | Performance |
-|----------------|--------|-------------|
-| **Random Forest**  | **0.6896** | ✅ Best |
-| XGBoost        | 0.6898 | Close second |
-| LightGBM       | 0.7011 | Moderate |
-| CatBoost       | 0.6967 | Moderate |
-| KNN Regressor  | 0.7633 | Poor |
+| Rank | Model           | RMSE   | Remarks        |
+|------|------------------|--------|----------------|
+| 🥇 1st | **Random Forest**  | **0.6896** | ✅ Best performance |
+| 2nd  | XGBoost         | 0.6898 | Very close     |
+| 3rd  | CatBoost        | 0.6967 | Good           |
+| 4th  | LightGBM        | 0.7011 | Moderate       |
+| 5th  | KNN Regressor   | 0.7633 | Underperformed |
 
-**➡️ Best Model:** `Random Forest Regressor` with the lowest RMSE of **0.6896**
+**✅ Top Performer:** `Random Forest Regressor` with the lowest RMSE of **0.6896**
 
 ## 🚀 Future Enhancements
 
 - Integrate review sentiment analysis
 - Build a Flask or Streamlit web app
-- Deploy API with Docker
+- Deploy API with Docker or FastAPI
 
 ## 🙋‍♂️ Author
 
 **Arman Ghanchi**  
-🏆 Winner of the E-commerce Product Rating Prediction Hackathon  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) *(update with your actual link)*
+🏆 **Secured 1st Rank in the MachineHack AI Hackathon**  
+🔗 [LinkedIn Achievement Post](https://www.linkedin.com/posts/arman-ghanchi-9b9422315_secured-rank-1-in-machinehack-ai-hackathon-activity-7339345774536716289-WlWJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE_5dR0BVoE1abKDT4ISJT5ycSHBG698LxM)
 
+---
 
