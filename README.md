@@ -1,5 +1,7 @@
 # 🛒 E-commerce Product Rating Prediction
 
+![Project Banner](https://i.imgur.com/JR3U2Vb.png) <!-- Replace with your own image -->
+
 ## 📌 Overview
 
 This project aims to predict the **ratings of products on an E-commerce platform** using features like product title, description, brand, and price. Accurate predictions can help sellers and platforms improve product presentation and customer satisfaction.
@@ -23,26 +25,10 @@ This is framed as a **regression** task.
 ## 📊 Workflow
 
 1. **Data Cleaning**
-   - Handled missing values
-   - Cleaned categorical and text fields
-
 2. **EDA**
-   - Rating distribution
-   - Feature correlation heatmaps
-   - Top brands and categories
-
 3. **Feature Engineering**
-   - Text vectorization
-   - Encoding categorical variables
-   - Feature scaling
-
 4. **Model Training**
-   - Models: Random Forest, XGBoost, LightGBM, CatBoost, KNN
-   - Hyperparameter tuning with GridSearchCV, Optuna
-
 5. **Evaluation**
-   - Root Mean Squared Error (RMSE)
-   - Model ranking below
 
 ## 🏆 Results
 
@@ -70,3 +56,6 @@ This is framed as a **regression** task.
 
 ---
 
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for
