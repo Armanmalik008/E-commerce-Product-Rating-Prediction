@@ -1,12 +1,6 @@
 # 🛒 E-commerce Product Rating Prediction
 
-![Uploading zack-yeo-dNb1rjP0auw-unsplash.jpg…]()
-![Uploading zack-yeo-dNb1rjP0auw-unsplash.jpg…]()
-![Uploading zack-yeo-dNb1rjP0auw-unsplash.jpg…]()
-![Uploading zack-yeo-dNb1rjP0auw-unsplash.jpg…]()
-
-
- ## 📌 Overview
+## 📌 Overview
 
 This project aims to predict the **ratings of products on an E-commerce platform** using features like product title, description, brand, and price. Accurate predictions can help sellers and platforms improve product presentation and customer satisfaction.
 
@@ -29,10 +23,26 @@ This is framed as a **regression** task.
 ## 📊 Workflow
 
 1. **Data Cleaning**
+   - Handled missing values
+   - Cleaned categorical and text fields
+
 2. **EDA**
+   - Rating distribution
+   - Feature correlation heatmaps
+   - Top brands and categories
+
 3. **Feature Engineering**
+   - Text vectorization
+   - Encoding categorical variables
+   - Feature scaling
+
 4. **Model Training**
+   - Models: Random Forest, XGBoost, LightGBM, CatBoost, KNN
+   - Hyperparameter tuning with GridSearchCV, Optuna
+
 5. **Evaluation**
+   - Root Mean Squared Error (RMSE)
+   - Model ranking below
 
 ## 🏆 Results
 
@@ -57,9 +67,3 @@ This is framed as a **regression** task.
 **Arman Ghanchi**  
 🏆 **Secured 1st Rank in the MachineHack AI Hackathon**  
 🔗 [LinkedIn Achievement Post](https://www.linkedin.com/posts/arman-ghanchi-9b9422315_secured-rank-1-in-machinehack-ai-hackathon-activity-7339345774536716289-WlWJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE_5dR0BVoE1abKDT4ISJT5ycSHBG698LxM)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
